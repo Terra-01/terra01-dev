@@ -19,7 +19,7 @@ export function useTheme() {
 }
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
-  const [theme, setTheme] = useState('dark-slate'); // Default theme
+  const [theme, setTheme] = useState('phantom'); // Default theme
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);

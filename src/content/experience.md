@@ -1,21 +1,16 @@
 ---
 title: 'Experience'
 jobs:
-  - role: 'Software Engineer'
-    company: 'Tech Corp'
-    period: '2022 - Present'
+  - role: 'Data Analyst Intern'
+    company: 'Tata Technologies'
+    period: 'May 24 - July 24'
     description:
-      - 'Developed and maintained web applications using React, Next.js, and Node.js.'
-      - 'Collaborated with cross-functional teams including designers, product managers, and other developers to deliver high-quality software products.'
-      - 'Implemented responsive designs and ensured cross-browser compatibility.'
-  - role: 'Junior Web Developer'
-    company: 'Startup Inc.'
-    period: '2020 - 2022'
+      - 'Using visual reports and statistical analysis, I examined large datasets to find important trends and insights for employee complaints regarding workplace safety and the appropriate use of safety equipment on the manufacturing floor.'
+      - 'Worked with numpy, tensorflow, matplotlib libraries in python.'
+  - role: 'Operations Manager'
+    company: 'Siddhi Vinayak Enterprises'
+    period: 'Apr 21 - Apr 23'
     description:
-      - 'Assisted in building and styling responsive user interfaces with HTML, CSS, and JavaScript.'
-      - 'Gained hands-on experience with modern frontend frameworks.'
-      - 'Participated in code reviews and fixed bugs reported by QA.'
-      # You can add more jobs by copying the structure above
-      # Each job should have: role, company, period, and description fields
-      # The description should be a list of your key responsibilities and achievements
+      - 'Led a diverse team of 10 in the spirits and beverages industry, managing thousands of customers daily to ensure the smooth functioning of the business.'
+      - 'Devised new operational processes with the Department of Excise and Prohibition that gave an immense boost to efficiency.'
 ---
