@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dev Portfolio",
-  description: "Dev Portfolio",
+  title: "Shivam Singh",
+  description: "Not your average Pokèmon Master",
 };
 
 export default function RootLayout({

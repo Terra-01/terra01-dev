@@ -2,11 +2,12 @@
 title: 'About'
 highlightKeywords:
   - 'Terra'
+  - 'Shivam'
   - 'performant application'
   - 'custom mechanical keyboard'
   - 'LEGO'
-  - 'dev-portfolio-template'
-  - 'Contact button'
+  - 'different themes'
+  - 'FolioWeaver'
 
 currentlyLearning:
   - 'Back-End Development'
@@ -16,4 +17,5 @@ currentlyLearning:
   - 'Linux Ricing'
 ---
 Hello! Shivam here, A software engineer driven by a passion for building things... Whether it's a performant application, a custom mechanical keyboard, or a new world in LEGO.
-This webpage is created by my dev-portfolio-template. Feel free to send me a message using the bottom right contact button.
+Explore the different themes using the selector in the bottom-left corner.
+This webpage was built with my project, FolioWeaver.
