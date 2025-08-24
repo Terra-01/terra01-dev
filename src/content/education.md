@@ -1,7 +1,7 @@
 ---
 title: 'Education'
 degrees:
-  - degree: 'Master of Science in Artificial Intelligence'
+  - degree: 'Bachelor of Computer Applications - Data Science'
     institution: 'SRM Institute of Science and Technology'
     location: 'Kattankulathur, Tamil Nadu, IN'
     period: '2022 - 2025'

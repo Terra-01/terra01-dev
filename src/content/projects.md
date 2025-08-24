@@ -1,6 +1,38 @@
 ---
 title: 'Projects'
 projects:
+  - name: 'FolioWeaver'
+    link: 'https://folio-weaver.vercel.app/edit'
+    github: 'https://github.com/Terra-01/FolioWeaver'
+    tech:
+      - 'Next.js'
+      - 'React'
+      - 'TypeScript'
+      - 'Tailwind CSS'
+      - 'Framer Motion'
+      - 'dnd-kit'
+      - 'Headless UI'
+    description:
+      - 'Architected a full-stack, WYSIWYG editor that generates clean, production-ready Next.js portfolios directly from a live, interactive UI.'
+      - 'Implemented a professional three-paneled interface with dnd-kit for full drag-and-drop customization of both content items and the main site layout.'
+      - 'Enhanced the user experience with fluid, animated panel transitions using Framer Motion and a suite of advanced, accessible components with Headless UI.'
+      - 'Engineered a headless CMS using Next.js API Routes to dynamically update Markdown files and built a server-side engine with jszip to export a lightweight, editor-free final project.'
+  - name: 'ALIA - Advanced Lecture Interactive Assistant'
+    link: 'https://alia01.vercel.app/'
+    github: 'https://github.com/Terra-01/ALIA'
+    tech:
+      - 'Next.js'
+      - 'React'
+      - 'Tailwind CSS'
+      - 'MongoDB Atlas'
+      - 'Auth.js'
+      - 'Google Gemini'
+      - 'AssemblyAI'
+      - 'Vercel'
+    description:
+      - 'Engineered a full-stack AI application using AssemblyAI and Google Gemini to automatically transcribe, summarize, and generate study questions from audio lectures.'
+      - 'Implemented a semantic search engine using Google Gemini embeddings and MongoDB Atlas Vector Search, allowing users to find information by concept, not just keywords.'
+      - 'Architected a complete user lifecycle with Auth.js, providing secure account management, history renaming, data deletion, and shareable analysis reports.'
   - name: 'Apple of Steve'
     link: 'https://apple-of-steve.vercel.app/'
     github: 'https://github.com/Terra-01/Apple_of_Steve_'
